@@ -13,11 +13,10 @@ import javafx.scene.layout.GridPane;
 import java.util.*;
 
 /**
- * CSC 305 Project 2
  * Controller for calculator program
  *
  * @author Thien An Tran
- * @version 2.0
+ * @version May 24, 2023
  */
 public class CalculatorController {
     @FXML

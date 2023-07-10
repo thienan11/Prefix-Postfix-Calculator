@@ -3,11 +3,10 @@ package calculator.project2calculatorgui;
 import java.util.Map;
 
 /**
- * CSC 305 Project 2
  * Handles parsing depending on given strategy
  *
  * @author Thien An Tran
- * @version 2.0
+ * @version May 22, 2023
  */
 public class Parser {
     private ParseStrategy parseStrategy;

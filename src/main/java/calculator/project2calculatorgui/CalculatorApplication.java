@@ -8,11 +8,10 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
- * CSC 305 Project 2
  * Driver for calculator program
  *
  * @author Thien An Tran
- * @version 2.0
+ * @version May 22, 2023
  */
 public class CalculatorApplication extends Application {
     @Override

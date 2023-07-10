@@ -1,11 +1,10 @@
 package calculator.project2calculatorgui;
 
 /**
- * CSC 305 Project 2
  * Represents the subtraction binary operation
  *
  * @author Thien An Tran
- * @version 2.0
+ * @version May 22, 2023
  */
 public class SubtractionOp extends BOperation{
 

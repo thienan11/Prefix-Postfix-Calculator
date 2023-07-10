@@ -1,11 +1,10 @@
 package calculator.project2calculatorgui;
 
 /**
- * CSC 305 Project 2
  * Abstract class representing binary operations in an expression
  *
  * @author Thien An Tran
- * @version 2.0
+ * @version May 22, 2023
  */
 public abstract class BOperation implements Expression {
     protected String operator;

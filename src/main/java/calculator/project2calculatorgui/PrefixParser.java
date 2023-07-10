@@ -5,11 +5,10 @@ import java.util.Deque;
 import java.util.Map;
 
 /**
- * CSC 305 Project 2
  * Handles parsing inputs in Prefix notation
  *
  * @author Thien An Tran
- * @version 2.0
+ * @version May 22, 2023
  */
 public class PrefixParser implements ParseStrategy {
     private Map<String, Double> env;
