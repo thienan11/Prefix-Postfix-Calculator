@@ -28,10 +28,15 @@ History:
 - The calculator remembers the last expression it evaluated. The last used expression is displayed at the top of the history display. Clicking on the history display adds the expression to the input text field as well as marks it as the "last used" expression, essentially moving it to the top. Evaluating the same expression again also moves it to the top.
 - Switching between notations also changes the notation of the expression in the history display.
 
+<img src="./images/history.png" alt="Screenshot of history feature" width="600" height="600">
+
 Variable Bindings:
 - Users are able to add a variable binding by using the add binding section of the application next to the history display.
 - Variable names can be anything but numbers, while values can only be numbers. You are unable to type in the incorrect thing in either text fields. Both text fields have to be filled to add a binding or it won't work.
 - Clicking on a variable that is already created adds it to the input text field.
+- You are able to reassign an existing variable by adding the existing variable with a different value.
+  
+<img src="./images/variableBindings.png" alt="Screenshot of variable binding" width="500" height="350">
 
 # Architecture & Design Patterns
 PrefixPostfixCalc uses a Model-View-Controller architecture pattern.
